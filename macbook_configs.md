@@ -33,7 +33,6 @@
 - Logitech Options
 - Spectacle
 
-
 **Web browsers**
 - Chrome
 - Firefox
