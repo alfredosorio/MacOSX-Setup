@@ -139,3 +139,4 @@ Mission Control > Dashboard = Off
 ## Administrative tasks
 - Transfer user files
 - Setup network file sharing with Windows 10 (See Windows document)
+- Setup Finder navbar shortcuts
