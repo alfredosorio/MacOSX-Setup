@@ -135,3 +135,7 @@ Mission Control > Dashboard = Off
 
 ### Configure Dock
 <img src="images/settings_dock.png">
+
+## Administrative tasks
+- Transfer user files
+- Setup network file sharing with Windows 10 (See Windows document)
