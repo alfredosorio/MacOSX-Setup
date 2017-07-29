@@ -42,11 +42,9 @@
 - Postman
 - Visual Studio Code
 
-## Developer tools and configuration
+## Ruby on Rails
 
-### Ruby on Rails
-
-#### Ruby 
+### Ruby
 ```
 Install Homebrew:
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -55,7 +53,7 @@ Install Ruby 2.4.0:
 brew install ruby
 ```
 
-#### Ruby Version Manager - RVM
+### Ruby Version Manager - RVM
 ```
 Install GPG keys:
 gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
@@ -78,7 +76,7 @@ ruby -v
 which ruby
 ```
 
-#### Rails
+### Rails
 ```
 Install Rails:
 gem install rails -v 5.1.1
@@ -87,7 +85,7 @@ Verify Rails installation:
 rails -v
 ```
 
-### Node
+## Node
 Download 'Current' version with latest features installer [here](https://nodejs.org/en/)
 ```
 Update npm:
