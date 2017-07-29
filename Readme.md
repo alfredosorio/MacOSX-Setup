@@ -128,18 +128,10 @@ Update Yarn:
 brew upgrade yarn
 ```
 
-## MongoDB
-
-## Mongoose
-
-## 
-
 ## OSX configuration
 
-| Description   | Config        |
-| ------------- | ------------- |
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+### Disable Dashboard
+Mission Control > Dashboard = Off
 
-## Other tasks
+### Configure Dock
+<img src="images/settings_dock.png">
